@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Poems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab28050096a25b82b1c84be2d9b724f14f5578e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Poems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Poems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

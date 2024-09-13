@@ -12,3 +12,4 @@ E:\Net\Session02-Language\Collections\Poems\obj\Debug\net8.0\refint\Poems.dll
 E:\Net\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.pdb
 E:\Net\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.genruntimeconfig.cache
 E:\Net\Session02-Language\Collections\Poems\obj\Debug\net8.0\ref\Poems.dll
+E:\Net\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.sourcelink.json

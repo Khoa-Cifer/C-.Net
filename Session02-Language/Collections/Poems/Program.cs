@@ -16,9 +16,30 @@
         //class level variable      instance variable
         static void Main(string[] args)
         {
-            //PrintSongXuanQuynhV5();
-            PrintPath();
+            PrintSongXuanQuynhV6();
+            //PrintPath();
             Console.ReadLine();
+        }
+
+        static void PrintSongXuanQuynhV6()
+        {
+            //In tua de bai tho kem nam xb 1967 kem so nam ra doi
+            //Console.WriteLine("Song - Xuan Quynh");
+            int year = 1967;
+            //Console.WriteLine("Song - Xuan Quynh - " + year + " - " + (2024 - year) + " Nam");
+            //Goi la concatenation
+
+            Console.WriteLine($@"\nSong - Xuan Quynh - {year} - {(2024 - year)} Nam");
+            //Ki thuat noi suy chuoi, rang tim trong chuoi cho nao la bien, thi thay value vao
+            //Interpolation: Chuoi viet kem bien qua ki tu $, noi suy ra bien
+            //Hay dung nhat, vi gan nhat voi wysiwyg
+            Console.WriteLine("Song - Xuan Quynh - {0} - {1} Nam", year, (2024 - year));
+            //Ki thuat tao chuoi theo style place holder, dien vao cho trong, chuoi can in cu lam theo style wysiwyg
+            //chua cho co cac bien can dien = dau {}
+            //cac bien den ty 0, 1, 2
+
+            string msg = $@"\nSong - Xuan Quynh - {year} - {(2024 - year)} Nam";
+            Console.WriteLine(msg);
         }
 
         //Dau @ dung truoc 1 chuoi bat ki se bien chuoi nhanh thanh chuoi nguyen ban, raw string -> co sai in vay.

@@ -12,3 +12,4 @@ E:\Net\Session02-Language\Collections\Musics\obj\Debug\net8.0\refint\Musics.dll
 E:\Net\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.pdb
 E:\Net\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.genruntimeconfig.cache
 E:\Net\Session02-Language\Collections\Musics\obj\Debug\net8.0\ref\Musics.dll
+E:\Net\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.sourcelink.json
