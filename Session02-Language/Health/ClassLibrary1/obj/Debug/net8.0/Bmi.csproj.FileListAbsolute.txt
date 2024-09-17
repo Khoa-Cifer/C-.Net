@@ -1,0 +1,13 @@
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\bin\Debug\net8.0\Bmi.deps.json
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\bin\Debug\net8.0\Bmi.dll
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\bin\Debug\net8.0\Bmi.pdb
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\bin\Debug\net8.0\Bmi.xml
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.dll
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\refint\Bmi.dll
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.xml
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\Bmi.pdb
+C:\Users\KhoaPC\source\repos\Health\ClassLibrary1\obj\Debug\net8.0\ref\Bmi.dll

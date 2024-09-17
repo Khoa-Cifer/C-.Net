@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCalculator">
+            <summary>
+            This class offers methods for evaluating the health status based on weight and height of someone.
+            Class nay cung cap cac ham de tinh toan chi so suc khoe dua tren chieu cao va can nang.
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            This method return the bmi indicator based on weight and height
+            </summary>
+            <param name="weight">Weight is based on kg</param>
+            <param name="height">Height is based on m</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
