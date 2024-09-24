@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\Net\\Session02-Language\\Numbers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{373F7556-3EE8-4B73-A5BE-613A998FDF6C}|PassByReference\\PassByReference.csproj|e:\\net\\session02-language\\numbers\\passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{373F7556-3EE8-4B73-A5BE-613A998FDF6C}|PassByReference\\PassByReference.csproj|solutionrelative:passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF608647-2748-4489-8349-6CF97290FF96}|PassByReferenceRefKeyword\\PassByReferenceRefKeyword.csproj|e:\\net\\session02-language\\numbers\\passbyreferencerefkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF608647-2748-4489-8349-6CF97290FF96}|PassByReferenceRefKeyword\\PassByReferenceRefKeyword.csproj|solutionrelative:passbyreferencerefkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{245A65C4-19DE-4334-9515-0785CBD00AE9}|PassByInKeyword\\PassByInKeyword.csproj|e:\\net\\session02-language\\numbers\\passbyinkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{245A65C4-19DE-4334-9515-0785CBD00AE9}|PassByInKeyword\\PassByInKeyword.csproj|solutionrelative:passbyinkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373F7556-3EE8-4B73-A5BE-613A998FDF6C}|PassByReference\\PassByReference.csproj|e:\\net\\session02-language\\numbers\\passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373F7556-3EE8-4B73-A5BE-613A998FDF6C}|PassByReference\\PassByReference.csproj|solutionrelative:passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D684157D-70D5-41CE-9B1A-4D550315B99E}|PassByValue\\PassByValue.csproj|e:\\net\\session02-language\\numbers\\passbyvalue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,11 +40,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Net\\Session02-Language\\Numbers\\PassByReferenceRefKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "PassByReferenceRefKeyword\\Program.cs",
+              "ToolTip": "E:\\Net\\Session02-Language\\Numbers\\PassByReferenceRefKeyword\\Program.cs*",
+              "RelativeToolTip": "PassByReferenceRefKeyword\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:22:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\Net\\Session02-Language\\Numbers\\PassByReference\\Program.cs",
               "RelativeDocumentMoniker": "PassByReference\\Program.cs",
               "ToolTip": "E:\\Net\\Session02-Language\\Numbers\\PassByReference\\Program.cs",
               "RelativeToolTip": "PassByReference\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T07:10:56.919Z",
               "EditorCaption": ""
@@ -60,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Net\\Session02-Language\\Numbers\\PassByValue\\Program.cs",
               "RelativeDocumentMoniker": "PassByValue\\Program.cs",
@@ -68,12 +85,11 @@
               "RelativeToolTip": "PassByValue\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwBIAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T05:59:12.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T05:59:12.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Net\\Session02-Language\\Numbers\\NumbersTester\\Program.cs",
               "RelativeDocumentMoniker": "NumbersTester\\Program.cs",
@@ -81,8 +97,7 @@
               "RelativeToolTip": "NumbersTester\\Program.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAwwAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T07:14:49.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T07:14:49.648Z"
             }
           ]
         }
