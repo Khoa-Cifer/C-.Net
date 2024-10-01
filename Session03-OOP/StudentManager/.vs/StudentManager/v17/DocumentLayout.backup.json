@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Net\\Session03-OOP\\StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|e:\\net\\session03-oop\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1950D18-1280-4FC2-848B-295D3DD84E47}|StudentTesterV2\\StudentTesterV2.csproj|e:\\net\\session03-oop\\studentmanager\\studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1950D18-1280-4FC2-848B-295D3DD84E47}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1950D18-1280-4FC2-848B-295D3DD84E47}|StudentTesterV2\\StudentTesterV2.csproj|e:\\net\\session03-oop\\studentmanager\\studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1950D18-1280-4FC2-848B-295D3DD84E47}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|e:\\net\\session03-oop\\studentmanager\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|e:\\net\\session03-oop\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAC2824-FAB9-4D80-994A-918035DC3F66}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,31 +32,57 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
-              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAABXAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Student.cs",
+              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T06:54:02.819Z",
+              "WhenOpened": "2024-10-01T07:29:59.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
-              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
-              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
-              "RelativeToolTip": "StudentTester\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwB0AAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Program.cs",
+              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeToolTip": "StudentTesterV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T06:40:34.526Z",
+              "WhenOpened": "2024-10-01T07:28:19.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
+              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:54:02.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
+              "ToolTip": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeToolTip": "StudentTester\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:40:34.526Z",
+              "EditorCaption": ""
             }
           ]
         }
