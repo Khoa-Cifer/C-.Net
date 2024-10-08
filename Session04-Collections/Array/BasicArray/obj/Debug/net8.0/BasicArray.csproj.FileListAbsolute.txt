@@ -1,0 +1,15 @@
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.AssemblyInfoInputs.cache
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.AssemblyInfo.cs
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.csproj.CoreCompileInputs.cache
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.sourcelink.json
+E:\Net\Session04-Collections\Array\BasicArray\bin\Debug\net8.0\BasicArray.exe
+E:\Net\Session04-Collections\Array\BasicArray\bin\Debug\net8.0\BasicArray.deps.json
+E:\Net\Session04-Collections\Array\BasicArray\bin\Debug\net8.0\BasicArray.runtimeconfig.json
+E:\Net\Session04-Collections\Array\BasicArray\bin\Debug\net8.0\BasicArray.dll
+E:\Net\Session04-Collections\Array\BasicArray\bin\Debug\net8.0\BasicArray.pdb
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.dll
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\refint\BasicArray.dll
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.pdb
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\BasicArray.genruntimeconfig.cache
+E:\Net\Session04-Collections\Array\BasicArray\obj\Debug\net8.0\ref\BasicArray.dll

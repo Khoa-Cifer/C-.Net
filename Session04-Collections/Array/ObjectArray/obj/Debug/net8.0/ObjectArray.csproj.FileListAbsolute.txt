@@ -1,0 +1,15 @@
+E:\Net\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.exe
+E:\Net\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.deps.json
+E:\Net\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.runtimeconfig.json
+E:\Net\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.dll
+E:\Net\Session04-Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.pdb
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfoInputs.cache
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfo.cs
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.csproj.CoreCompileInputs.cache
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.sourcelink.json
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.dll
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\refint\ObjectArray.dll
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.pdb
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.genruntimeconfig.cache
+E:\Net\Session04-Collections\Array\ObjectArray\obj\Debug\net8.0\ref\ObjectArray.dll
