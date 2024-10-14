@@ -1,0 +1,15 @@
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\bin\Debug\net8.0\StudentTesterV6.exe
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\bin\Debug\net8.0\StudentTesterV6.deps.json
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\bin\Debug\net8.0\StudentTesterV6.runtimeconfig.json
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\bin\Debug\net8.0\StudentTesterV6.dll
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\bin\Debug\net8.0\StudentTesterV6.pdb
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.AssemblyInfoInputs.cache
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.AssemblyInfo.cs
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.csproj.CoreCompileInputs.cache
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.sourcelink.json
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.dll
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\refint\StudentTesterV6.dll
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.pdb
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\StudentTesterV6.genruntimeconfig.cache
+I:\projects\C-.Net\Session03-OOP\StudentManager\StudentTesterV6\obj\Debug\net8.0\ref\StudentTesterV6.dll

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj": {}
+    "I:\\projects\\C-.Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj": {}
   },
   "projects": {
-    "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj": {
+    "I:\\projects\\C-.Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
+        "projectUniqueName": "I:\\projects\\C-.Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
         "projectName": "StudentTester",
-        "projectPath": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
-        "packagesPath": "C:\\Users\\KhoaPC\\.nuget\\packages\\",
-        "outputPath": "E:\\Net\\Session03-OOP\\StudentManager\\StudentTester\\obj\\",
+        "projectPath": "I:\\projects\\C-.Net\\Session03-OOP\\StudentManager\\StudentTester\\StudentTester.csproj",
+        "packagesPath": "C:\\Users\\Cifer\\.nuget\\packages\\",
+        "outputPath": "I:\\projects\\C-.Net\\Session03-OOP\\StudentManager\\StudentTester\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\KhoaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cifer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
