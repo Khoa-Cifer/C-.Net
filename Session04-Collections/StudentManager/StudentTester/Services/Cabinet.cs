@@ -75,10 +75,22 @@ namespace StudentTester.Services
         //Xoá vị trí số 2
         //Dồn từ chỗ xoá và cuối mảng lên 1 vị trí
         //                  [2] = [3], [3] = [4]
-        public void RemoveStudent()
+        public void RemoveStudent(string id)
         {
             //Đưa vào mã sv, id, tìm ra vị trí muốn xoá
             //Xoá ở vị trí mấy, và đôn vị trí lên từ chỗ tìm thấy.
+            int? pos = searchStudentById(id);
+
+            if (pos.HasValue)
+            {
+                for (int i = (int)pos; i < _count - 1; i++)
+                {
+                    _arr[i] = _arr[i + 1];
+                }
+                _arr[_count] = null;
+                _count--;
+                Console.WriteLine("Delete successfully");
+            }
         }
 
         public void UpdateStudent(string id, string? newName, int? newYob, double? newGpa)
@@ -89,6 +101,8 @@ namespace StudentTester.Services
             if (pos.HasValue)
             {
                 _arr[(int)pos].Name = newName;
+                _arr[(int)pos].Yob = (int)newYob;
+                _arr[(int)pos].Gpa = (double)newGpa;
                 Console.WriteLine("Update successfully");
             }
             else

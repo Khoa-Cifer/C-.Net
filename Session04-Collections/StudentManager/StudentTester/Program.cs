@@ -28,8 +28,11 @@ namespace StudentTester
             Console.WriteLine("IA students:");
             tuIA.PrintStudentList();
 
-            tuSE.UpdateStudent("SE3", "Mr X", null, null);
+            tuSE.UpdateStudent("SE3", "Mr X", 123, 7.5);
             Console.WriteLine("Updating SE3");
+            tuSE.PrintStudentList();
+            Console.WriteLine("Delete SE3");
+            tuSE.RemoveStudent("SE3");
             tuSE.PrintStudentList();
         }
     }
