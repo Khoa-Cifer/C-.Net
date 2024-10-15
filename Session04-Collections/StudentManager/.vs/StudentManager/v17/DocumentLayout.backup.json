@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "F:\\C-.Net\\Session04-Collections\\StudentManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|f:\\c-.net\\session04-collections\\studentmanager\\primitivelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|solutionrelative:primitivelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|f:\\c-.net\\session04-collections\\studentmanager\\primitivelist\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|solutionrelative:primitivelist\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00B451CC-F9CF-4585-B580-6F649E17296F}|StudentTesterV2\\StudentTesterV2.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00B451CC-F9CF-4585-B580-6F649E17296F}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttester\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|f:\\c-.net\\session04-collections\\studentmanager\\studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{371A1484-35EE-4D69-BBC6-C08BA998F404}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cabinet.cs",
-              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
-              "RelativeDocumentMoniker": "StudentTester\\Services\\Cabinet.cs",
-              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
-              "RelativeToolTip": "StudentTester\\Services\\Cabinet.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAkwFsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:50:13.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
-              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowAsAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "PrimitiveList\\Entities\\Student.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Entities\\Student.cs",
+              "RelativeToolTip": "PrimitiveList\\Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:50:00.956Z",
+              "WhenOpened": "2024-10-15T07:46:17.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Program.cs",
-              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
-              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Program.cs",
-              "RelativeToolTip": "StudentTester\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCAAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Program.cs",
+              "RelativeDocumentMoniker": "PrimitiveList\\Program.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Program.cs",
+              "RelativeToolTip": "PrimitiveList\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:48:51.98Z",
+              "WhenOpened": "2024-10-15T07:18:27.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Entities\\Student.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV3\\Entities\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:12:50.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:12:44.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Program.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeToolTip": "StudentTesterV3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:11:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Services\\Cabinet.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTester\\Services\\Cabinet.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwIMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:37:39.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ToolTip": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:37:01.408Z",
               "EditorCaption": ""
             }
           ]

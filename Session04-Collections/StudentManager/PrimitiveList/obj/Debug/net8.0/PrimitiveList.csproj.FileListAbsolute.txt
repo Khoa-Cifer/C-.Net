@@ -1,0 +1,15 @@
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\bin\Debug\net8.0\PrimitiveList.exe
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\bin\Debug\net8.0\PrimitiveList.deps.json
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\bin\Debug\net8.0\PrimitiveList.runtimeconfig.json
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\bin\Debug\net8.0\PrimitiveList.dll
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\bin\Debug\net8.0\PrimitiveList.pdb
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfoInputs.cache
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfo.cs
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.csproj.CoreCompileInputs.cache
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.sourcelink.json
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.dll
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\refint\PrimitiveList.dll
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.pdb
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\PrimitiveList.genruntimeconfig.cache
+F:\C-.Net\Session04-Collections\StudentManager\PrimitiveList\obj\Debug\net8.0\ref\PrimitiveList.dll
