@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentTester
-build_property.ProjectDir = I:\projects\C-.Net\Session04-Collections\StudentManager\StudentTester\
+build_property.ProjectDir = F:\C-.Net\Session04-Collections\StudentManager\StudentTester\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\StudentTester.csproj",
-      "projectName": "StudentTester",
-      "projectPath": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\StudentTester.csproj",
+      "projectUniqueName": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\PrimitiveList.csproj",
+      "projectName": "PrimitiveList",
+      "projectPath": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\PrimitiveList.csproj",
       "packagesPath": "C:\\Users\\KHOA\\.nuget\\packages\\",
-      "outputPath": "F:\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\obj\\",
+      "outputPath": "F:\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KHOA\\AppData\\Roaming\\NuGet\\NuGet.Config",
