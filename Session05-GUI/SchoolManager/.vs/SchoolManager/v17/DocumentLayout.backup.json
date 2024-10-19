@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|i:\\projects\\c-.net\\session05-gui\\schoolmanager\\studentmanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|i:\\projects\\c-.net\\session05-gui\\schoolmanager\\studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|i:\\projects\\c-.net\\session05-gui\\schoolmanager\\studentmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|i:\\projects\\c-.net\\session05-gui\\schoolmanager\\studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|i:\\projects\\c-.net\\session05-gui\\schoolmanager\\studentmanager\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{CCE506BA-42BE-415D-8522-64847D927DED}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentManager\\MainWindow.xaml",
+              "ToolTip": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\MainWindow.xaml",
+              "RelativeToolTip": "StudentManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T07:06:18.871Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Entities\\Student.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManager\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:37:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManager\\MainWindow.xaml.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:19:11.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "StudentManager\\LoginWindow.xaml",
+              "ToolTip": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\LoginWindow.xaml",
+              "RelativeToolTip": "StudentManager\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T06:56:06.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentManager\\LoginWindow.xaml.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\Session05-GUI\\SchoolManager\\StudentManager\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "StudentManager\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:56:25.683Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

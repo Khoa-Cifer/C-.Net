@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|i:\\projects\\c-.net\\session04-collections\\studentmanager\\primitivelist\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|solutionrelative:primitivelist\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|i:\\projects\\c-.net\\session04-collections\\studentmanager\\primitivelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEDD428-CB3C-4EE2-BE52-CF95845C63CC}|PrimitiveList\\PrimitiveList.csproj|solutionrelative:primitivelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|i:\\projects\\c-.net\\session04-collections\\studentmanager\\studenttester\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48224795-A147-48CB-BAF9-F428E6D11BA8}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "PrimitiveList\\Entities\\Student.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Entities\\Student.cs",
+              "RelativeToolTip": "PrimitiveList\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:28:20.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Program.cs",
+              "RelativeDocumentMoniker": "PrimitiveList\\Program.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\PrimitiveList\\Program.cs",
+              "RelativeToolTip": "PrimitiveList\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:28:12.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Lecturer.cs",
               "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Entities\\Lecturer.cs",
               "RelativeDocumentMoniker": "StudentTester\\Entities\\Lecturer.cs",
@@ -42,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LecturerCabinet.cs",
               "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\LecturerCabinet.cs",
               "RelativeDocumentMoniker": "StudentTester\\Services\\LecturerCabinet.cs",
@@ -55,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Program.cs",
               "RelativeDocumentMoniker": "StudentTester\\Program.cs",
@@ -67,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Cabinet.cs",
               "DocumentMoniker": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\Cabinet.cs",
               "RelativeDocumentMoniker": "StudentTester\\Services\\Cabinet.cs",

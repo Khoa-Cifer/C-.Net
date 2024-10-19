@@ -1,0 +1,45 @@
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.exe
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.deps.json
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.runtimeconfig.json
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.dll
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.pdb
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\App.g.cs
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager_MarkupCompile.cache
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager_MarkupCompile.lref
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.g.resources
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfoInputs.cache
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfo.cs
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.csproj.CoreCompileInputs.cache
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.dll
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\refint\StudentManager.dll
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.pdb
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.genruntimeconfig.cache
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\ref\StudentManager.dll
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\Semester 5\PRN212\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\LoginWindow.baml
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.exe
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.deps.json
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.runtimeconfig.json
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.dll
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\bin\Debug\net8.0-windows\StudentManager.pdb
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\LoginWindow.g.cs
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\MainWindow.g.cs
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\App.g.cs
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager_MarkupCompile.cache
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager_MarkupCompile.lref
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\LoginWindow.baml
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\MainWindow.baml
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.g.resources
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfoInputs.cache
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.AssemblyInfo.cs
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.csproj.CoreCompileInputs.cache
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.sourcelink.json
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.dll
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\refint\StudentManager.dll
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.pdb
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\StudentManager.genruntimeconfig.cache
+I:\projects\C-.Net\Session05-GUI\SchoolManager\StudentManager\obj\Debug\net8.0-windows\ref\StudentManager.dll
