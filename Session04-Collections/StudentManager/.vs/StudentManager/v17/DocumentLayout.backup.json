@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,8 +38,7 @@
               "RelativeToolTip": "StudentTester\\Entities\\Lecturer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:28:07.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:28:07.359Z"
             },
             {
               "$type": "Document",
@@ -53,7 +48,7 @@
               "RelativeDocumentMoniker": "StudentTester\\Services\\LecturerCabinet.cs",
               "ToolTip": "I:\\projects\\C-.Net\\Session04-Collections\\StudentManager\\StudentTester\\Services\\LecturerCabinet.cs",
               "RelativeToolTip": "StudentTester\\Services\\LecturerCabinet.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBwAAAAJAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T12:27:50.586Z",
               "EditorCaption": ""
@@ -68,8 +63,7 @@
               "RelativeToolTip": "StudentTester\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:24:08.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:24:08.418Z"
             },
             {
               "$type": "Document",
@@ -81,8 +75,11 @@
               "RelativeToolTip": "StudentTester\\Services\\Cabinet.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAAAIoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T07:50:13.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T07:50:13.185Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
