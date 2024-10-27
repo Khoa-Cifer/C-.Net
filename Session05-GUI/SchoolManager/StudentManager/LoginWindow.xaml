@@ -12,21 +12,20 @@
             <RowDefinition Height="251*"/>
             <RowDefinition Height="183*"/>
         </Grid.RowDefinitions>
-        <Rectangle RadiusX="20" RadiusY="29" Fill="#DE3163" HorizontalAlignment="Left" Height="368" Stroke="Black" VerticalAlignment="Top" Width="472" Grid.RowSpan="2" Margin="152,41,0,0"/>
+        <Rectangle RadiusX="20" RadiusY="29" Fill="#DE3163" HorizontalAlignment="Left" Height="323" Stroke="Black" VerticalAlignment="Top" Width="472" Grid.RowSpan="2" Margin="152,86,0,0"/>
 
         <Label 
-     Content="Login" 
+             Style="{StaticResource HeaderLabel}"
+             Content="Login" 
      
-     HorizontalAlignment="Left" 
-     Height="69" 
-     Margin="328,57,0,0" 
-     VerticalAlignment="Top" 
-     Width="126" 
-     FontSize="40" 
-     FontWeight="ExtraBold" 
-     Foreground="#DFFF00" 
-     Background="Transparent" 
-     RenderTransformOrigin="0.5,0.5"  />
+             HorizontalAlignment="Left" 
+             Height="69" 
+             Margin="312,12,0,0" 
+             VerticalAlignment="Top" 
+             Width="152" 
+            
+             RenderTransformOrigin="0.5,0.5"  
+        />
         <Button 
             x:Name="LoginButton"
             Foreground="#DFFF00" 
@@ -50,7 +49,15 @@
             Height="53" Margin="450,58,0,0" 
             VerticalAlignment="Top" 
             Width="154" Click="QuitButton_Click" Grid.Row="1"/>
-        <PasswordBox HorizontalAlignment="Left" Height="48" Margin="177,228,0,0" VerticalAlignment="Top" Width="427" Password="" Grid.RowSpan="2"/>
+        <Label Content="Username" HorizontalAlignment="Left" Margin="177,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="177,207,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="UsernameTextBox" 
+                 HorizontalAlignment="Left" 
+                 Margin="296,129,0,0" TextWrapping="Wrap" 
+                 VerticalAlignment="Top" Width="282"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" 
+                 Margin="296,215,0,0" TextWrapping="Wrap"
+                 VerticalAlignment="Top" Width="282"/>
 
     </Grid>
 </Window>

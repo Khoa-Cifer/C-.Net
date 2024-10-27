@@ -26,6 +26,14 @@ namespace StudentManager
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
+            //Vừa nhấn nút login, show ngay username vừa gõ
+            string username = UsernameTextBox.Text; //lấy ra dòng chữ trong ô nhận username
+            //Thử hàm set
+            string password = PasswordTextBox.Text = "Ngoc Trinh";
+
+            MessageBox.Show("Bạn vừa gõ username: " + username);
+            MessageBox.Show("Password là: " + password);
+
             //nút bấm này ta sẽ chuyển trang , sang màn hình chính 
             //nên nhớ mỗi màn hjình ứng vs 1 class
             //để có 1 màn hình hiển thị , tức là màn hình phải vào ram -> tức là ta phải new object , new màn hình 

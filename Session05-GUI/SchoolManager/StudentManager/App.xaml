@@ -4,6 +4,51 @@
              xmlns:local="clr-namespace:StudentManager"
              StartupUri="LoginWindow.xaml">
     <Application.Resources>
-         
+        <!-- Đây là nơi khai báo những tài nguyên dùng chung trong app, dùng chung trnog các màn hình, ví dụ như style trong các nút bấm, ô nhập, label, trong các màn hình ta sẽ sử dụng style để áp dụng cho các thành phần/component khi chúng được đặt lên window  
+        - Có 2 loại style: style mặc định và style mở rộng, style thứ 2, 3
+        - Ví dụ nếu ta set mặc định cứ nút nhất thì là màu đỏ tím, chữ màu vàng, kể từ nay về sau cứ nút bấm là màu đỏ tím, chữ thì màu vàng
+        - Còn style mở rộng, style thứ 2, 3,... thì ta quy định không dùng default mà xài mở rộng qua khai báo Style = " ... Tên style mở rộng" 
+        -->
+
+        <!-- Style mặc định cho nút bấm, nền màu tím, đỏ ám tím + chữ vàng, Font 20 đậm extra -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#CCCCFF" />
+            <Setter Property="Foreground" Value="#DFFF00" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+
+        <!-- Style thứ 2 - Song song với style default -->
+        <Style x:Key="CyanButton" TargetType="Button">
+            <Setter Property="Background" Value="#00FFFF" />
+            <Setter Property="Foreground" Value="#DFFF00" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+        
+        <!-- Ta làm 2 style cho cái label - nhãn dán -->
+        <!-- Style default là nhãn trong suốt, chữ vàng, font 20, bold vừa đủ, làm nhãn cho các ô nhập, checkbox -->
+        <!-- Style mở rộng, nhãn tựa đề, bự, chũ vàng, font 48, đậm đà, dùng làm nhãn tựa đề màn hình, ví dụ create student, danh sách sinh viên -->
+        <Style x:Key="HeaderLabel" TargetType="Label">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="#DFFF00" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+            <Setter Property="FontSize" Value="48" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="#DFFF00" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+        
+        <!-- Ta làm style cho ô textbox: font 20, đậm vừa, màu chữ hồng -->
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="#33bbff" />
+            <Setter Property="Foreground" Value="#FF2800" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
     </Application.Resources>
 </Application>

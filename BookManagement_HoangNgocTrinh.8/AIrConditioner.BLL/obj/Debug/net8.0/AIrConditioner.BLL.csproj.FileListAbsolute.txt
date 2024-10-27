@@ -1,0 +1,16 @@
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\bin\Debug\net8.0\AIrConditioner.BLL.deps.json
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\bin\Debug\net8.0\AIrConditioner.BLL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\bin\Debug\net8.0\AIrConditioner.BLL.pdb
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\bin\Debug\net8.0\AirConditioner.DAL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\bin\Debug\net8.0\AirConditioner.DAL.pdb
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.csproj.AssemblyReference.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.AssemblyInfoInputs.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.AssemblyInfo.cs
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.csproj.CoreCompileInputs.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.sourcelink.json
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrCondi.047499EF.Up2Date
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\refint\AIrConditioner.BLL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\AIrConditioner.BLL.pdb
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AIrConditioner.BLL\obj\Debug\net8.0\ref\AIrConditioner.BLL.dll

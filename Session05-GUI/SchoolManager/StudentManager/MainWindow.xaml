@@ -21,28 +21,60 @@
             Background="Transparent" 
             RenderTransformOrigin="0.5,0.5"  >
         </Label>
+        <!--
+<DataGrid 
+    x:Name="StudentListDataGrid"
+    HorizontalAlignment="Left"
+    Height="259" 
+    Margin="10,91,0,0" 
+    VerticalAlignment="Top" 
+    Width="418" 
+    AutoGenerateColumns="True"
+    SelectionChanged="DataGrid_SelectionChanged"
+    />        
+        -->
+
         <DataGrid 
-            x:Name="StudentListDataGrid"
-            HorizontalAlignment="Left"
-            Height="259" 
-            Margin="10,91,0,0" 
-            VerticalAlignment="Top" 
-            Width="418" 
-            AutoGenerateColumns="True"
-            SelectionChanged="DataGrid_SelectionChanged"
-            />
+           x:Name="StudentListDataGrid"
+           HorizontalAlignment="Left"
+           Height="259" 
+           Margin="10,91,0,0" 
+           VerticalAlignment="Top" 
+           Width="560" 
+           AutoGenerateColumns="False" 
+           SelectionChanged="DataGrid_SelectionChanged"
+        >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MSSV" Width="50" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Tên" Width="120" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Năm Sinh" Width="100" Binding="{Binding Yob}"/>
+                <DataGridTextColumn Header="Điểm" Width="100" Binding="{Binding Gpa}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--Nếu không có AutoGenerateColumns thì giá trị default là Tue -->
+        <!--AutoGenerateColumns="True" nghĩa là cái data grid sẽ tự động tạo ra các cột dựa vào thông tin của object đưa vào cho nó
+        - Hiện nay đang lưu danh sách các sinh viên (Id, Name, Yob, Gpa)
+        - List<Student> gồm new Student() {} ....
+        - Mỗi dòng new Student() ứng với 1 dòng trong Data Grid
+        - Mỗi object gồm 4 properties, 4 props này sẽ biến thành 4 cột, tự động tạo tên cột ăn theo tên prop của object
+        - Nếu ta muốn độ lại cột theo cách riêng của ta, ta cần:
+            - Đặt lại tên cột theo ý thích
+            - Map tên cột mới với cái prop tương ứng của object sẽ đồ vào DG
+            - Nếu ta chế cột Id (MSSV) của student, ta cần phải map vào prop Id của object Student đã được new
+        - Vậy cơ chế chủ động làm cột và map vào prop gọi là AutoGenerateColumns="False" 
+        - Tự tạo tên cột, không cần generate -->
         <Button 
-            x:Name="LoadStudentsButton"
-            Foreground="#DFFF00" 
-            FontWeight="ExtraBold" 
-            FontSize="20"  
-            Background="#CCCCFF" 
-            Content="Load data" 
+            x:Name="LoadStudentsButton" 
             HorizontalAlignment="Left" 
-            Height="34" Margin="623,54,0,0" 
+            Height="34" Margin="631,91,0,0" 
             VerticalAlignment="Top" 
             Width="120" Click="LoadButtonClick" 
-            />
+        >
+            <Button Content="Button"/>
+        </Button>
+        <Button Content="Button" HorizontalAlignment="Left"
+                Margin="631,153,0,0" VerticalAlignment="Top" Height="34" Width="120"
+                Style="{StaticResource CyanButton}"/>
 
     </Grid>
 </Window>

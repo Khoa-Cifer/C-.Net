@@ -1,0 +1,15 @@
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\bin\Debug\net8.0\AirConditioner.DAL.deps.json
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\bin\Debug\net8.0\AirConditioner.DAL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\bin\Debug\net8.0\AirConditioner.DAL.pdb
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.AssemblyInfoInputs.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.AssemblyInfo.cs
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.csproj.CoreCompileInputs.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.sourcelink.json
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\refint\AirConditioner.DAL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.pdb
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\ref\AirConditioner.DAL.dll
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\bin\Debug\net8.0\AirConditioner.DAL.runtimeconfig.json
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.csproj.AssemblyReference.cache
+F:\C-.Net\BookManagement_HoangNgocTrinh.8\AirConditioner.DAL\obj\Debug\net8.0\AirConditioner.DAL.genruntimeconfig.cache
