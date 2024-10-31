@@ -133,7 +133,7 @@ namespace BookManagement_HoangNgocTrinh {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookManagement_HoangNgocTrinh;component/bookdetailwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookManagement_HoangNgocTrinh;V1.0.0.0;component/bookdetailwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BookDetailWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

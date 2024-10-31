@@ -23,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditioner.DAL.csproj|solutionrelative:airconditioner.dal\\models\\airconditionershop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditionerShop.DAL.csproj|f:\\c-.net\\bookmanagement_hoangngoctrinh.8\\airconditioner.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditionerShop.DAL.csproj|solutionrelative:airconditioner.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9EFAC444-80A8-46B5-94C9-B3CF5B6005A2}|AIrConditioner.BLL\\AIrConditioner.BLL.csproj|f:\\c-.net\\bookmanagement_hoangngoctrinh.8\\airconditioner.bll\\airconditioner.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9EFAC444-80A8-46B5-94C9-B3CF5B6005A2}|AIrConditioner.BLL\\AIrConditioner.BLL.csproj|solutionrelative:airconditioner.bll\\airconditioner.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -37,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditioner.DAL.csproj|f:\\c-.net\\bookmanagement_hoangngoctrinh.8\\airconditioner.dal\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditioner.DAL.csproj|solutionrelative:airconditioner.dal\\models\\airconditionershop2024dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditioner.DAL.csproj|f:\\c-.net\\bookmanagement_hoangngoctrinh.8\\airconditioner.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56D910-AAC5-424C-8CB7-CAEE0888E2EF}|AirConditioner.DAL\\AirConditioner.DAL.csproj|solutionrelative:airconditioner.dal\\models\\suppliercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
               "ToolTip": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
               "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T07:56:24.544Z",
               "EditorCaption": ""
@@ -82,8 +82,7 @@
               "ToolTip": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
               "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-25T07:54:22.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:54:22.965Z"
             },
             {
               "$type": "Document",
@@ -95,12 +94,11 @@
               "RelativeToolTip": "AIrConditioner.BLL\\Services\\AirConService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:50:46.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:50:46.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SupplierCompany.cs",
               "DocumentMoniker": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\AirConditioner.DAL\\Models\\SupplierCompany.cs",
               "RelativeDocumentMoniker": "AirConditioner.DAL\\Models\\SupplierCompany.cs",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "AirConditioner.DAL\\Models\\SupplierCompany.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:48:06.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:48:06.214Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "AirConditioner.DAL\\Repositories\\AirConditionerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:43:24.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:43:24.149Z"
             },
             {
               "$type": "Document",
@@ -134,12 +130,11 @@
               "RelativeToolTip": "AirConditioner.DAL\\Models\\AirConditionerShop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:36:47.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:36:47.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AIrConditioner.BLL.csproj",
               "DocumentMoniker": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\AIrConditioner.BLL\\AIrConditioner.BLL.csproj",
               "RelativeDocumentMoniker": "AIrConditioner.BLL\\AIrConditioner.BLL.csproj",
@@ -147,25 +142,23 @@
               "RelativeToolTip": "AIrConditioner.BLL\\AIrConditioner.BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T07:47:57.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:47:57.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookManagement_HoangNgocTrinh",
+              "DocumentIndex": 6,
+              "Title": "BookManagement_HoangNgocTrinh.csproj",
               "DocumentMoniker": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
               "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
               "ToolTip": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
               "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-25T07:43:32.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:43:32.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AirConditionerShop2024DbContext.cs",
               "DocumentMoniker": "F:\\C-.Net\\BookManagement_HoangNgocTrinh.8\\AirConditioner.DAL\\Models\\AirConditionerShop2024DbContext.cs",
               "RelativeDocumentMoniker": "AirConditioner.DAL\\Models\\AirConditionerShop2024DbContext.cs",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "AirConditioner.DAL\\Models\\AirConditionerShop2024DbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:36:27.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T07:36:27.353Z"
             }
           ]
         }
