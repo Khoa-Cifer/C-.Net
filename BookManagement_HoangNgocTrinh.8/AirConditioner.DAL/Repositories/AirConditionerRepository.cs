@@ -19,5 +19,28 @@ namespace AirConditioner.DAL.Repositories
             _dbContext = new AirConditionerShop2024DbContext();
             return _dbContext.AirConditioners.ToList();
         }
+
+        //Hàm này nhận vào 1 object cần xoá, là 1 vùng new AirCon
+        //Trong biến obj muốn xoá phải đưa vào hàm, trong dbSet này sẽ lấy Id của airCon được đưa vào để xoá (DELETE WHERE Id...)
+        public void DeleteAirConditioner(AirConditionerShop airConditioner)
+        {
+            //Xài là phải new, mỗi lần xài là phải new lại _dbContext;
+            _dbContext.AirConditioners.Remove(airConditioner);
+            _dbContext.SaveChanges();
+        }
+
+        public void AddAirConditioner(AirConditionerShop airConditioner)
+        {
+            //Xài là phải new, mỗi lần xài là phải new lại _dbContext;
+            _dbContext.AirConditioners.Add(airConditioner);
+            _dbContext.SaveChanges(); //tạo mới trong db và lưu thay đổi
+        }
+
+        public void UpdateAirConditioner(AirConditionerShop airConditioner)
+        {
+            //Xài là phải new, mỗi lần xài là phải new lại _dbContext;
+            _dbContext.AirConditioners.Update(airConditioner);
+            _dbContext.SaveChanges(); //update trong db và lưu thay đổi
+        }
     }
 }

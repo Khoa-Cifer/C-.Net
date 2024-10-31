@@ -18,5 +18,14 @@ namespace AIrConditioner.BLL.Services
         {
             return _repository.GetAll();
         }
+
+        public void DeleteAirConditioner(AirConditionerShop airConditionerShop) =>
+            _repository.DeleteAirConditioner(airConditionerShop);
+
+        public void UpdateAirConditioner(AirConditionerShop airConditionerShop) =>
+          _repository.UpdateAirConditioner(airConditionerShop);
+
+        public void CreateAirConditioner(AirConditionerShop airConditionerShop) =>
+          _repository.AddAirConditioner(airConditionerShop);
     }
 }
