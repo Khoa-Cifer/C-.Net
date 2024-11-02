@@ -20,6 +20,8 @@
         <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" Height="118" Margin="226,291,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="637" TabIndex="2" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"/>
         <Label Content="Book Quantity" HorizontalAlignment="Left" Height="45" Margin="58,496,0,0" VerticalAlignment="Top" Width="140" Foreground="#ff4500"/>
         <TextBox x:Name="QuantityTextBox" HorizontalAlignment="Left" Height="45" Margin="226,490,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="227" TabIndex="4"/>
+        <Label Content="Sound Pressure" HorizontalAlignment="Left" Height="45" Margin="521,620,0,0" VerticalAlignment="Top" Width="140" Foreground="#ff4500"/>
+        <TextBox x:Name="SoundPressureTextBox" HorizontalAlignment="Left" Height="45" Margin="676,620,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="188" TabIndex="4"/>
         <Label Content="Book Price" HorizontalAlignment="Left" Height="45" Margin="516,497,0,0" VerticalAlignment="Top" Width="107" Foreground="#ff4500"/>
         <TextBox x:Name="PriceTextBox" HorizontalAlignment="Left" Height="45" Margin="637,492,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="227" TabIndex="5"/>
         <Label Content="Author" HorizontalAlignment="Left" Height="45" Margin="58,558,0,0" VerticalAlignment="Top" Width="107" Foreground="#ff4500"/>
