@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookManagement_TranDangKhoa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464df9a77fa79f9d96b9063c7c31dc7ced4cf57a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3bf99fd99d1a2dfe7e9cb25f2d3d89b77e2fdcb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookManagement_TranDangKhoa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookManagement_TranDangKhoa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

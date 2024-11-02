@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\",
+  "WorkspaceRootPath": "I:\\projects\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|f:\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|f:\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|f:\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|f:\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|f:\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90CA633E-8975-4A08-BCD3-15CF992311D6}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABFFFABD-9BDD-47B0-88EE-EED0E803FB0F}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|i:\\projects\\c-.net\\pe_prn212_su24_trialtest_trandangkhoa\\bookmanagement_trandangkhoa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFFFABD-9BDD-47B0-88EE-EED0E803FB0F}|BookManagement_TranDangKhoa\\BookManagement_TranDangKhoa.csproj|solutionrelative:bookmanagement_trandangkhoa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\App.xaml.cs",
-              "RelativeDocumentMoniker": "BookManagement_TranDangKhoa\\App.xaml.cs",
-              "ToolTip": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\App.xaml.cs",
-              "RelativeToolTip": "BookManagement_TranDangKhoa\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T05:39:12.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "BookManagement_TranDangKhoa\\LoginWindow.xaml",
-              "ToolTip": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\LoginWindow.xaml",
-              "RelativeToolTip": "BookManagement_TranDangKhoa\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T05:38:49.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml",
-              "DocumentMoniker": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\App.xaml",
-              "RelativeDocumentMoniker": "BookManagement_TranDangKhoa\\App.xaml",
-              "ToolTip": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\App.xaml",
-              "RelativeToolTip": "BookManagement_TranDangKhoa\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T05:37:54.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "BookManagement_TranDangKhoa\\MainWindow.xaml",
-              "ToolTip": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml*",
-              "RelativeToolTip": "BookManagement_TranDangKhoa\\MainWindow.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T05:36:09.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
+              "DocumentMoniker": "I:\\projects\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
-              "ToolTip": "F:\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
+              "ToolTip": "I:\\projects\\C-.Net\\PE_PRN212_SU24_TrialTest_TranDangKhoa\\BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
               "RelativeToolTip": "BookManagement_TranDangKhoa\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T05:36:08.77Z",
+              "WhenOpened": "2024-11-01T13:59:54.25Z",
               "EditorCaption": ""
             }
           ]

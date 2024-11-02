@@ -5,12 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BookManagement_TranDangKhoa"
         mc:Ignorable="d"
-        Title="Login Window" Height="330" Width="600" FontFamily="Arial" 
-        FontSize="14" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen">
+        Title="LoginWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="130,109,0,0" VerticalAlignment="Top" FontFamily="Arial" FontSize="12"/>
-        <TextBox TextAlignment="Right" HorizontalAlignment="Right" 
-                 Margin="287,145,0,0" TextWrapping="Wrap" 
-                 Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        
     </Grid>
 </Window>
