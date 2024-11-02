@@ -65,7 +65,14 @@ namespace BookManagement_HoangNgocTrinh
             //Mở màn hình detail và show lên, chờ được edit rồi save rồi reload lưới
             BookDetailWindow detailWindow = new();
             //Chuyển selectedData vào màn hình detail
+            detailWindow.EditedOne = selectedAirConditioner; //Quan trọng, gửi object được chọn sang màn hình detail
+            //2 biến object mà gán bằng nhau, tức là 2 chàng trỏ 1 nàng
+            //selected đang trỏ vào vùng ram nào, thì EditedOne trỏ chung
+            //Biến object mà bằng nhau => Pass by reference
+            //Nên nhớ, tạo mới object bắt buộc phải xuất hiện toán tử new.
+            //Mọi sự chạm biến object mà không dùng new đều là new cũ, object cũ đã được new rồi.
             detailWindow.ShowDialog();
+            FillDataGrid(_airConService.GetAll());
         }
 
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
